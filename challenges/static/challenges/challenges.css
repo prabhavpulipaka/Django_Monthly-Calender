@@ -1,0 +1,10 @@
+ul {
+    list-style: none;
+    margin: 2 rem auto;
+    width: 90%;
+    max-width: 50rem;
+    box-shadow: 0 2px 8px rgb(0,0,0,0.26);
+    padding: 1rem;
+    border-radius: 12px;
+    
+}
